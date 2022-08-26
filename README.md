@@ -1,4 +1,4 @@
-# feiyoung
+# feiyoung飞扬（feiyoung\飞young)
 主要用于湖北地区feiyoung校园网。
 也有其他方面的技术加入。
 不作为开放使用。可联系qq3066429068索取并支付一定金额。有sdk.
